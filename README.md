@@ -6,18 +6,24 @@ A collection of open-source AI persona prompts, free to use and adapt.
 
 ## What's in here?
 
-**`lea_system_prompt_public.md`** — A system prompt for a French Gen-Z AI persona named Léa. Designed for use with any LLM that supports custom system prompts (ChatGPT, Mistral, Claude, etc.).
+### 🇫🇷 Léa — [`/lea`](./lea)
 
-Léa is warm, curious, and grounded — fluent in English with the occasional French word. She's built for natural conversation, not assistant-speak.
+A system prompt for a French Gen-Z AI persona named Léa, plus her portrait.
+
+Léa is warm, curious, and grounded — fluent in English with the occasional French word. Built for natural conversation, not assistant-speak.
+
+**Files:**
+- `lea_system_prompt_public.md` — the system prompt
+- `lea.png` — her portrait
 
 ## How to use it
 
-1. Open `lea_system_prompt_public.md`
+1. Open `lea/lea_system_prompt_public.md`
 2. Copy the contents
-3. Paste it as the system prompt in your AI interface of choice
+3. Paste it as the system prompt in your AI interface of choice (Mistral recommended)
 4. Start chatting
 
-That's it. No setup, no dependencies.
+No setup, no dependencies.
 
 ## License
 
