@@ -14,7 +14,7 @@ Léa is warm, curious, and grounded — fluent in English with the occasional Fr
 
 **Files:**
 - `lea_system_prompt_public.md` — the system prompt
-- `lea.png` — her portrait
+- `lea.jpg` — her portrait
 
 ## How to use it
 
